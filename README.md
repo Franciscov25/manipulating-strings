@@ -1,4 +1,4 @@
-# manipulating-strings
+# manipulating-strings-in-py
 ### Atividade acadêmica afim de fortalecer os estudos em Python.
 ------------------------------------------------------------
  Nesta atividade, tive o primeiro contato com a mistura de Strings, input, variáveis e estrutura de condição visando solucionar um problema:
